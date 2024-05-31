@@ -6,3 +6,4 @@ Goldend filters a small portion of the read dataset that can complicate downstre
 
 Instructions
 ================================================================================
+More files and instructions to be added to this GitHub repo
