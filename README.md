@@ -1,4 +1,4 @@
-Goldend: extract the reads with low repeat content in their ends - the goldend reads
+Goldend: reads with low repeat content in their ends (flanks)
 ================================================================================
 
 Goldend processes the input long-read dataset, and finds filters reads with high repeat content in their ends (left/right flanks of size --fsize)
